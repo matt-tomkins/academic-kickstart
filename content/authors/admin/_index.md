@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Matt Tomkins
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lecturer in Physical Geography
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Manchester
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: As a Quaternary scientist, I'm interested in the role of glaciers, rivers and landslides in controlling the evolution of mountain landscapes and the topographic signature left behind by erosion and sediment deposition. 
+
+My current research incorporates quantitative analysis of topography and absolute and relative age dating of glacial and landslide deposits. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Landscape evolution
+- Erosion 
+- Chronology
+- Cosmogenic nuclides
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Physical Geography
+    institution: University of Manchester
+    year: 2019
+  - course: MSc in Environmental Science (By Research)
+    institution: lANCASTER University
+    year: 2016
+  - course: BSc in Geography
+    institution: University of Manchester
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +50,16 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/GlacialErosion
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=1mMsy0sAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/matt-tomkins
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-5403-7405
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Matt Tomkins is a Lecturer in Physical Geography at the University of Manchester. His research interests include landscape evolution, chronology and erosion. He is a member of the Quaternary Environments and Geoarcheology group (QEG) and Cryosphere Research at Manchester (CRAM), a cross-university research group which fosters collaboration between experts in glacial processes.
