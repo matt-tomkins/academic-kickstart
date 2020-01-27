@@ -32,7 +32,7 @@ education:
     institution: University of Manchester
     year: 2019
   - course: MSc in Environmental Science (By Research)
-    institution: lANCASTER University
+    institution: Lancaster University
     year: 2016
   - course: BSc in Geography
     institution: University of Manchester
