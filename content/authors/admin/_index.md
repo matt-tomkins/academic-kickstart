@@ -18,9 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: As a Quaternary scientist, I'm interested in the role of glaciers, rivers and landslides in controlling the evolution of mountain landscapes and the topographic signature left behind by erosion and sediment deposition. 
-
-My current research incorporates quantitative analysis of topography and absolute and relative age dating of glacial and landslide deposits. 
+bio: As a Quaternary scientist, I'm interested in the role of glaciers, rivers and landslides in controlling the evolution of mountain landscapes and the topographic signature left behind by erosion and sediment deposition. My current research incorporates quantitative analysis of topography and absolute and relative age dating of glacial and landslide deposits. 
 
 interests:
 - Landscape evolution
