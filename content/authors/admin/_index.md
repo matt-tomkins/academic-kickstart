@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Matt Tomkins is a Lecturer in Physical Geography at the University of Manchester. His research interests include landscape evolution, chronology and erosion. He is a member of the Quaternary Environments and Geoarcheology group (QEG) and Cryosphere Research at Manchester (CRAM), a cross-university research group which fosters collaboration between experts in glacial processes.
+As a Quaternary scientist, I'm interested in the role of glaciers, rivers and landslides in controlling the evolution of mountain landscapes and the topographic signature left behind by erosion and sediment deposition. My current research incorporates quantitative analysis of topography and absolute and relative age dating of glacial and landslide deposits. 
