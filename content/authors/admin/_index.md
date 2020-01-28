@@ -14,28 +14,27 @@ role: Lecturer in Physical Geography
 
 # Organizations/Affiliations
 organizations:
-- name: University of Manchester
+- name: The University of Manchester
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: As a Quaternary scientist, I'm interested in the role of glaciers, rivers and landslides in controlling the evolution of mountain landscapes and the topographic signature left behind by erosion and sediment deposition. My current research incorporates quantitative analysis of topography and absolute and relative age dating of glacial and landslide deposits. 
 
 interests:
-- Landscape evolution
-- Erosion 
+- Landscape evolution 
 - Chronology
 - Cosmogenic nuclides
 
 education:
   courses:
   - course: PhD in Physical Geography
-    institution: University of Manchester
+    institution: The University of Manchester
     year: 2019
   - course: MSc in Environmental Science (By Research)
     institution: Lancaster University
     year: 2016
   - course: BSc in Geography
-    institution: University of Manchester
+    institution: The University of Manchester
     year: 2015
 
 # Social/Academic Networking
