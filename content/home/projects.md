@@ -2,11 +2,11 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Research"
-subtitle = "Glacial cirques are widespread in mountain landscapes? But what do we know about their evolution and their role in the growth of mountain topography?"
+subtitle = "Glacial cirques are classic features of Alpine landscapes. But what do we know about their role in the evolution of mountain topography?"
 
 [content]
   # Page type to display. E.g. project.
