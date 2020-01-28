@@ -30,7 +30,7 @@ education:
   - course: PhD in Physical Geography
     institution: The University of Manchester
     year: 2019
-  - course: MSc in Environmental Science (By Research)
+  - course: MSc in Environmental Science
     institution: Lancaster University
     year: 2016
   - course: BSc in Geography
@@ -73,4 +73,6 @@ user_groups:
 - Visitors
 ---
 
-As a Quaternary scientist, I'm interested in the role of glaciers, rivers and landslides in controlling the evolution of mountain landscapes and the topographic signature left behind by erosion and sediment deposition. My current research incorporates quantitative analysis of topography and absolute and relative age dating of glacial and landslide deposits. 
+As a Quaternary scientist, I'm interested in the role of glaciers, rivers and landslides in controlling the evolution of mountain landscapes and the topographic signature left behind by erosion and sediment deposition. 
+
+My current research incorporates quantitative analysis of topography and absolute and relative age dating of glacial and landslide deposits. 
