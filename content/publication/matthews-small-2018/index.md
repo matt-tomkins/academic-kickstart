@@ -8,6 +8,6 @@ abstract: "Rock-slope failures (RSFs) constitute significant natural hazards, bu
 featured: false
 publication: "*Boreas*"
 url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1111/bor.12336"
-doi: "10.1111/bor.12336"
+doi: ""
 ---
 

@@ -9,6 +9,6 @@ featured: false
 publication: "*Quaternary Research*"
 tags: ["Pyrenees", "Schmidt hammer exposure dating", "Last glacial maximum", "Geomorphology", "Glacier chronology", "Terrestrial cosmogenic nuclide dating"]
 url_pdf: "https://www.cambridge.org/core/journals/quaternary-research/article/rapid-age-assessment-of-glacial-landforms-in-the-pyrenees-using-schmidt-hammer-exposure-dating-shed/8BEE6D3F906E0B6A405F535BC8C3165E"
-doi: "10.1017/qua.2018.12"
+doi: ""
 ---
 

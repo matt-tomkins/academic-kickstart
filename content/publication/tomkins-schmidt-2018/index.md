@@ -8,6 +8,6 @@ abstract: "Recent research has established Schmidt Hammer exposure dating (SHED)
 featured: false
 publication: "*Quaternary Geochronology*"
 url_pdf: "http://www.sciencedirect.com/science/article/pii/S1871101417301206"
-doi: "10.1016/j.quageo.2017.12.003"
+doi: ""
 ---
 

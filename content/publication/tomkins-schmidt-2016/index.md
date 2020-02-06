@@ -9,6 +9,6 @@ featured: false
 publication: "*Quaternary Geochronology*"
 tags: ["Be dating", "British Ice Sheet", "British-Irish Ice Sheet", "Glacial chronology", "Schmidt hammer exposure dating", "TCN dating"]
 url_pdf: "http://www.sciencedirect.com/science/article/pii/S1871101416300085"
-doi: "10.1016/j.quageo.2016.02.002"
+doi: ""
 ---
 

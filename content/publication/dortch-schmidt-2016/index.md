@@ -8,6 +8,6 @@ abstract: ""
 featured: false
 publication: "*Quaternary Geochronology*"
 url_pdf: "http://www.sciencedirect.com/science/article/pii/S1871101416300644"
-doi: "10.1016/j.quageo.2016.06.001"
+doi: ""
 ---
 

@@ -9,6 +9,6 @@ featured: false
 publication: "*Journal of Quaternary Science*"
 tags: ["Ireland", "10Be dating", "glacier chronology", "Schmidt Hammer exposure dating (SHED)", "topographic controls", "Wicklow"]
 url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1002/jqs.3040"
-doi: "10.1002/jqs.3040"
+doi: ""
 ---
 
