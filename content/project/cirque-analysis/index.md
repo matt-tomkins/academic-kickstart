@@ -10,6 +10,6 @@ featured: true
 publication: "*Earth Surface Processes and Landforms*"
 tags: ["glacial erosion", "cirques", "Britain", "erosion rate", "glacial buzzsaw", "Ireland", "quaternary"]
 url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1002/esp.4688"
-doi: "10.1002/esp.4688"
+doi: ""
 ---
 
