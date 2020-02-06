@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Current research"
-subtitle = "Moraines and cirques are classic features of glaciated landscapes. Text goes here"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
