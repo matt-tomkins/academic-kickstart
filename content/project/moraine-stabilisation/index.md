@@ -1,4 +1,4 @@
----
++++
 title: "Moraine crest or slope?"
 summary: "Cosmogenic dating of moraines has transformed our understanding of Quaternary glacial cycles. But can we improve the accuracy of cosmogenic datasets?" 
 date: 2019-12-01
@@ -10,5 +10,5 @@ featured: false
 publication: "*AGU*"
 url_custom = [{name = "Approach 1", url = "https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/613438"}, {name = "Approach 2", url = "https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/502207"}]
 doi: ""
----
++++
 
