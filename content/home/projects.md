@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Current projects"
-subtitle = "Moraines are classic features of glaciated landscapes. But how can we date them?"
+title = "Current research"
+subtitle = "Moraines and cirques are classic features of glaciated landscapes. Text goes here"
 
 [content]
   # Page type to display. E.g. project.
