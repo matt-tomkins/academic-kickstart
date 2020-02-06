@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Research"
-subtitle = "Glacial cirques are classic features of Alpine landscapes. But what do we know about their role in the evolution of mountain topography?"
+title = "Current research"
+subtitle = "Moraines and cirques are classic features of glaciated landscapes. Text goes here"
 
 [content]
   # Page type to display. E.g. project.
