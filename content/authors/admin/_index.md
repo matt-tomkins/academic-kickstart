@@ -57,9 +57,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-5403-7405
-- icon: strava
-  icon_pack: fab
-  link: https://www.strava.com/athletes/5838816
+#- icon: strava
+  #icon_pack: fab
+  #link: https://www.strava.com/athletes/5838816
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
