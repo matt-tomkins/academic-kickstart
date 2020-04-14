@@ -57,6 +57,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-5403-7405
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/3076800/matt-tomkins/
 #- icon: strava
   #icon_pack: fab
   #link: https://www.strava.com/athletes/5838816
