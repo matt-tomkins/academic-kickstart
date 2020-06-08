@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer in Physical Geography
+role: Geography & Environment (Teaching)
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Manchester
+- name: The University of Aberdeen
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
