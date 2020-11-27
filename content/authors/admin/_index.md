@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Geography & Environment (Teaching)
+role: Senior Tutor in GIS
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Aberdeen
+- name: The University of Manchester
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
