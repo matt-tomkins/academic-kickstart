@@ -15,11 +15,7 @@ links:
   url: https://doi.org/10.1016/j.epsl.2021.117092
 - icon: copy
   icon_pack: fas
-  name: Approach 1
-  url: https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/613438
-- icon: copy
-  icon_pack: fas
-  name: Approach 2
+  name: Coming soon!
   url: https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/502207
 url_code: ""
 url_pdf: ""
