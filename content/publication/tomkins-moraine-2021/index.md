@@ -1,12 +1,14 @@
 ---
 title: "Moraine crest or slope: an analysis on the effects of boulder position on cosmogenic exposure age"
 date: 2021-07-20
-publishDate: 2021-09-21T14:24:01.849508Z
+publishDate: 2020-02-06T14:24:01.847508Z
 authors: ["Matt D. Tomkins", "Jason M. Dortch", "Philip D. Hughes", "Jonny J. Huck", "Raimon Pallàs", "Ángel Rodés", "James L. Allard", "Andrew G. Stimson", "Didier Bourlès", "Vincent R. Rinterknecht", "Laura Rodríguez-Rodríguez", "Vincent Jomelli", "Ramón Copons", "Iestyn D. Barr", "Christopher M. Darvill, "Thomas Bishop"]
 publication_types: ["2"]
 abstract: "Terrestrial cosmogenic nuclide dating of ice-marginal moraines can provide unique insights into Quaternary glacial history. However, pre- and post-depositional exposure histories of moraine boulders can introduce geologic uncertainty to numerical landform ages. To avoid geologic outliers, boulders are typically selected based on their depositional context and individual characteristics but while these criteria have good qualitative reasoning, many have not been tested quantitatively. Of these, boulder location is critical, as boulders located on moraine crests are prioritised, while those on moraine slopes are typically rejected. This study provides the first quantitative assessment of the relative utility of moraine crest and moraine slope sampling using new and published 10Be and 36Cl ages (n = 19) and Schmidt hammer sampling (SH; n = 635 moraine boulders, ∼19,050 SH R-values) in the northern and southern Pyrenees. These data show that for many of the studied moraines, the spatial distribution of “good” boulders is effectively random, with no consistent clustering on moraine crests, ice-proximal or -distal slopes. In turn, and in contrast to prior work, there is no clear penalty to either moraine crest or moraine slope sampling. Instead, we argue that landform stability exerts a greater influence on exposure age distributions than the characteristics of individual boulders. For the studied landforms, post-depositional stability is strongly influenced by sedimentology, with prolonged degradation of matrix-rich unconsolidated moraines while boulder-rich, matrix-poor moraines stabilised rapidly after deposition. While this pattern is unlikely to hold true in all settings, these data indicate that differences between landforms can be more significant than differences at the intra-landform scale. As ad hoc assessment of landform stability is extremely challenging based on geomorphological evidence alone, preliminary SH sampling, as utilised here, is a useful method to assess the temporal distribution of boulder exposure ages and to prioritise individual boulders for subsequent analysis."
 featured: true
 publication: "*Earth and Planetary Science Letters*"
+tags: ["cosmogenic nuclides", "moraine", "geologic uncertainty", "degradation", "weathering", "Schmidt hammer"]
 url_pdf: "https://doi.org/10.1016/j.epsl.2021.117092"
 doi: ""
 ---
+
