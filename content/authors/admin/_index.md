@@ -61,6 +61,7 @@ social:
   #icon_pack: ai
   #link: https://publons.com/researcher/3076800/matt-tomkins/
 - icon: manchester
+  icon_pack: custom
   link: https://www.research.manchester.ac.uk/portal/en/researchers/matt-tomkins(c8615701-331f-428d-aeb4-b306b062fe03).html
 #- icon: strava
   #icon_pack: fab
