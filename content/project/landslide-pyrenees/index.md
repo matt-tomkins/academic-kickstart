@@ -11,8 +11,12 @@ publication: "*GSA*"
 links:
 - icon: copy
   icon_pack: fas
-  name: *GSA* Poster
+  name: Poster
   url: files/GSA_Rockfall_Poster.pdf
+- icon: copy
+  icon_pack: pen
+  name: Abstract
+  url: files/GSA_Rockfall_Abstract.pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""
