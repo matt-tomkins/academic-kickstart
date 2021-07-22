@@ -9,12 +9,12 @@ abstract: ""
 featured: false
 publication: "*GSA*"
 links:
-- icon: copy
+- icon: rectangle-portrait
   icon_pack: fas
   name: Poster
   url: files/GSA_Rockfall_Poster.pdf
-- icon: copy
-  icon_pack: pen
+- icon: pen
+  icon_pack: fas
   name: Abstract
   url: files/GSA_Rockfall_Abstract.pdf
 url_code: ""

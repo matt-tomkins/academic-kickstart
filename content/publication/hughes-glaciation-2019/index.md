@@ -1,5 +1,5 @@
 ---
-title: "Glaciation of the English Lake District during the Late-glacial: a new analysis using $^textrm10$Be and Schmidt hammer exposure dating"
+title: "Glaciation of the English Lake District during the Late-glacial: a new analysis using <sup>10</sup>Be and Schmidt hammer exposure dating"
 date: 2019-11-01
 publishDate: 2021-07-22T13:51:14.852334Z
 authors: ["Philip Hughes", "Matt Tomkins", "Andrew Stimson"]
