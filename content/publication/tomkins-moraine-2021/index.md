@@ -9,6 +9,6 @@ featured: true
 publication: "*Earth and Planetary Science Letters*"
 tags: ["Schmidt hammer", "weathering", "cosmogenic nuclides", "moraine", "degradation", "geologic uncertainty"]
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0012821X21003472"
-doi: "10.1016/j.epsl.2021.117092"
+url_code: "https://github.com/matt-tomkins/moraine-crest-or-slope"
 ---
 

@@ -9,5 +9,7 @@ featured: false
 publication: "*Quaternary Geochronology*"
 url_pdf: "http://www.sciencedirect.com/science/article/pii/S1871101417301206"
 doi: ""
+url_code: "https://github.com/jonnyhuck/shed-earth"
+url_website: "http://www.shed.earth/shedcalc/"
 ---
 

@@ -9,6 +9,5 @@ We propose a method of numerically generating a composite PDE to represent TCN a
 featured: false
 publication: "*AGU*"
 url_pdf: "https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/502207"
-doi: "https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/502207"
 ---
 
