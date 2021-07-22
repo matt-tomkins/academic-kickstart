@@ -11,5 +11,14 @@ publication: "*Earth Surface Processes and Landforms*"
 tags: ["glacial erosion", "cirques", "Britain", "erosion rate", "glacial buzzsaw", "Ireland", "quaternary"]
 url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1002/esp.4688"
 doi: ""
+links: 
+- icon: pen
+  icon_pack: fas
+  name: Abstract
+  url: "https://meetingorganizer.copernicus.org/EGU2020/EGU2020-11290.html"
+- icon: play-circle
+  icon_pack: fas
+  name: Slides
+  url: "https://presentations.copernicus.org/EGU2020/EGU2020-11290_presentation.pdf"
 ---
 

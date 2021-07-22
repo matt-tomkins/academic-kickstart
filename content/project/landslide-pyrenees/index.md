@@ -9,7 +9,7 @@ abstract: ""
 featured: false
 publication: "*GSA*"
 links:
-- icon: rectangle-portrait
+- icon: file-powerpoint
   icon_pack: fas
   name: Poster
   url: files/GSA_Rockfall_Poster.pdf
