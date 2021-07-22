@@ -9,7 +9,7 @@ title: Publications
 view: 1
 
 # Optional header image (relative to `static/img/` folder).
-header: true
+header:
   caption: ""
   image: "Publications"
 ---
