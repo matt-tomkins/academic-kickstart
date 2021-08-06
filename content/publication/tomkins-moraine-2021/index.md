@@ -12,9 +12,9 @@ url_pdf: "https://www.sciencedirect.com/science/article/pii/S0012821X21003472"
 url_code: "https://github.com/matt-tomkins/moraine-crest-or-slope"
 image:
   placement: 1
-  caption: "Photo by [Matt](https://github.com/matt-tomkins)"
+  caption: "Lateral moraines at [Soum d'Ech](https://www.google.co.uk/maps/@43.0861787,-0.0854136,426m/data=!3m1!1e3)"
   focal_point: "Center"
   preview_only: false
-  alt_text: An ice-marginal moraine in the Pyrenees.
+  alt_text: Lateral moraines at Soum d'Ech (northern Pyrenees).
 ---
 
