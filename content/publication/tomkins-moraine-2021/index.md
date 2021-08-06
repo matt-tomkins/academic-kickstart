@@ -10,5 +10,11 @@ publication: "*Earth and Planetary Science Letters*"
 tags: ["Schmidt hammer", "weathering", "cosmogenic nuclides", "moraine", "degradation", "geologic uncertainty"]
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0012821X21003472"
 url_code: "https://github.com/matt-tomkins/moraine-crest-or-slope"
+image:
+  placement: 1
+  caption: "Photo by [Matt](https://github.com/matt-tomkins)"
+  focal_point: "Center"
+  preview_only: false
+  alt_text: An ice-marginal moraine in the Pyrenees.
 ---
 
