@@ -85,3 +85,5 @@ user_groups:
 As a Quaternary scientist, I'm interested in the role of glaciers, rivers and landslides in controlling the evolution of mountain landscapes and the topographic signature left behind by erosion and sediment deposition. 
 
 My current research incorporates quantitative analysis of topography and absolute and relative age dating of glacial and landslide deposits. 
+
+As a Senior Tutor, I contribute to Undergraduate and Masters level courses, including[Environmental Monitoring and Modelling Concepts](https://matt-tomkins.github.io/GEOG-70581/) and [Understanding GIS] (https://www.manchester.ac.uk/study/masters/courses/list/02180/msc-environmental-monitoring-modelling-and-reconstruction/all-content/GEOG71552#course-unit-details), supervise student theses and deliver lectures, seminars, laboratory practicals and fieldwork activities.    
