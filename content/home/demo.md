@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" base target="_blank" src="/leaflet/work_map.html"></iframe>
+<iframe seamless = "" width = "100%", height = "500" class="shortcode-iframe" src="/leaflet/work_map.html"></iframe>
