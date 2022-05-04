@@ -12,7 +12,7 @@ links:
 - icon: copy
   icon_pack: fas
   name: Paper
-  url: *Insert link here*
+  url: https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/502207
 - icon: calculator
   icon_pack: fas
   name: Get P-CAAT
