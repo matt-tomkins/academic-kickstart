@@ -11,12 +11,16 @@ publication: "*AGU*"
 links:
 - icon: copy
   icon_pack: fas
-  name: New paper!
+  name: Paper
   url: https://doi.org/10.1016/j.epsl.2021.117092
-- icon: copy
+- icon: play-circle
   icon_pack: fas
-  name: Coming soon!
-  url: https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/502207
+  name: Slides
+  url: files/QRA-Moraine-crest-or-slope.ppsx
+- icon: file-powerpoint
+  icon_pack: fas
+  name: Poster
+  url: files/AGU-Moraine-crest-or-slope.pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""
