@@ -1,6 +1,6 @@
 ---
 title: The Probabilistic Cosmogenic Age Analysis Tool
-summary: "A new approach to isolate geologic uncertainty in cosmogenic exposure age datasets (PCAAT), now published in *Quaternary Geochronology*" 
+summary: "A new approach to isolate geologic uncertainty in cosmogenic exposure age datasets (P-CAAT), now published in *Quaternary Geochronology*" 
 date: 2019-12-01
 publishDate: 2020-02-06T14:24:01.849508Z
 authors: ["Jason M. Dortch", "Matt D. Tomkins", "Sourav Saha", "Madhav K. Murari", "Lindsay M. Schoenbohm", "Doug Curl"]
@@ -12,7 +12,7 @@ links:
 - icon: copy
   icon_pack: fas
   name: Paper
-  url: https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/502207
+  url: https://doi.org/10.1016/j.quageo.2022.101323
 - icon: calculator
   icon_pack: fas
   name: Get P-CAAT
