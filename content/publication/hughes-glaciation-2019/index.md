@@ -1,6 +1,6 @@
 ---
 title: 'Glaciation of the English Lake District during the Late-glacial: a new analysis
-  using $^textrm10$Be and Schmidt hammer exposure dating'
+  using 10Be and Schmidt hammer exposure dating'
 date: '2019-11-01'
 publishDate: '2022-09-26T12:34:49.487521Z'
 authors:

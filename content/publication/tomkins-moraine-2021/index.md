@@ -48,7 +48,7 @@ abstract: Terrestrial cosmogenic nuclide dating of ice-marginal moraines can pro
   evidence alone, preliminary SH sampling, as utilised here, is a useful method to
   assess the temporal distribution of boulder exposure ages and to prioritise individual
   boulders for subsequent analysis.
-featured: false
+featured: true
 publication: '*Earth and Planetary Science Letters*'
 tags:
 - Schmidt hammer
