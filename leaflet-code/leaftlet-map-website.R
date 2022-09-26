@@ -4,7 +4,7 @@
 # Function to check and install packages
 check.packages <- function(pkg){
   new.pkg <- pkg[!(pkg %in% installed.packages()[, "Package"])]
-  if (length(new.pkg)) 
+  if (length(new.pkg))
     install.packages(new.pkg, dependencies = TRUE)
   sapply(pkg, require, character.only = TRUE)
 }
@@ -16,7 +16,7 @@ packages <- c("leaflet", "htmltools", "htmlwidgets", "fontawesome")
 check.packages(packages)
 
 # Load data
-work <- read.csv("C:/Users/44797/Desktop/Leaflet-Locations.csv")
+work <- read.csv("C:/Users/44797/Desktop/Repo/academic-kickstart/leaflet-code/Leaflet-Locations.csv")
 head(work)
 
 # Create labels
@@ -33,7 +33,7 @@ iconset2 <- awesomeIconList(
 )
 
 # Create map
-(work_map <- leaflet(work) %>% 
+(work_map <- leaflet(work) %>%
     addProviderTiles(providers$Stamen.Watercolor) %>%
     addProviderTiles(providers$Stamen.TerrainLabels) %>%
     #addMarkers(~Lon, ~Lat, popup = ~labels))

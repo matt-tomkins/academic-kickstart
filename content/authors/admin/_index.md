@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Tutor in GIS
+role: Lecturer in GIS
 
 # Organizations/Affiliations
 organizations:
@@ -86,4 +86,4 @@ As a Quaternary scientist, I'm interested in the role of glaciers, rivers and la
 
 My current research incorporates quantitative analysis of topography and absolute and relative age dating of glacial and landslide deposits. 
 
-As a Senior Tutor, I contribute to Undergraduate and Masters level courses, including[Environmental Monitoring and Modelling Concepts](https://matt-tomkins.github.io/GEOG-70581/) (in progress!) and [Understanding GIS](https://www.manchester.ac.uk/study/masters/courses/list/02180/msc-environmental-monitoring-modelling-and-reconstruction/all-content/GEOG71552#course-unit-details), deliver lectures, seminars and laboratory-fieldwork activities and supervise student theses
+As a Lecturer in GIS, I contribute to Undergraduate and Masters level courses, including[Environmental Monitoring and Modelling Concepts](https://emm-concepts.com/) and [Understanding GIS](https://www.manchester.ac.uk/study/masters/courses/list/02180/msc-environmental-monitoring-modelling-and-reconstruction/all-content/GEOG71552#course-unit-details), deliver lectures, seminars and laboratory-fieldwork activities and supervise student theses.
