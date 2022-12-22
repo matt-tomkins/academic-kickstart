@@ -13,6 +13,14 @@ links:
   icon_pack: fas
   name: Paper
   url: https://doi.org/10.1038/s41467-022-33310-z
+- icon: comment
+  icon_pack: fas
+  name: Conversation
+  url: https://theconversation.com/glaciers-have-existed-on-earth-for-at-least-60-million-years-far-longer-than-previously-thought-195693  
+- icon: newspaper
+  icon_pack: fas
+  name: Press
+  url: https://www.abdn.ac.uk/news/16614/
 url_code: ""
 url_pdf: ""
 url_slides: ""
