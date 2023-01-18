@@ -20,6 +20,10 @@ links:
 - icon: newspaper
   icon_pack: fas
   name: Press
+  url: https://www.manchester.ac.uk/discover/news/antarctic-glaciers-formed-30-million-years-earlier/
+- icon: newspaper
+  icon_pack: fas
+  name: Press
   url: https://www.abdn.ac.uk/news/16614/
 url_code: ""
 url_pdf: ""
